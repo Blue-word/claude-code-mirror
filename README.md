@@ -7,6 +7,9 @@
 访问 [www.claudecodemirror.com](https://www.claudecodemirror.com) 
 立即体验专为中国工程师打造的AI编程助手
 
+<img width="1382" height="998" alt="image" src="https://github.com/user-attachments/assets/6ebe1ad4-4cfa-4425-a37c-7b331ada37b7" />
+
+
 ## 为什么全球开发者都在选择 Claude Code？
 
 在编程的世界里，每一行代码都承载着创新的力量。现在，**Claude Code 中国镜像**为中国工程师带来了前所未有的AI编程体验，让您的开发效率飞跃式提升。
