@@ -88,6 +88,9 @@ Claude Code 不仅仅是一个AI助手，更是您代码世界的智能伙伴：
 访问 [www.claudecodemirror.com](https://www.claudecodemirror.com) 
 立即体验专为中国工程师打造的AI编程助手
 
+#### 技术交流群
+<img width="418" height="424" alt="image" src="https://github.com/user-attachments/assets/20150f65-3e4c-4193-824f-1860ee8b7111" />
+
 ---
 
 *Claude Code 中国镜像 - 让AI编程工具真正为您所用* ✨
